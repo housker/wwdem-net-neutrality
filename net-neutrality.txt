@@ -1,0 +1,22 @@
+Question:
+Who coined the phrase "pay-to-play" with regards to net neutrality, and what does it mean?
+
+Answer:
+CNN reporter, Doug Gross, first uses the term "pay-to-play" in an article dating from January 2014, right after the D.C. Circuit Appeals ruling in favor of Verizon (Verizon vs FCC).*
+Verizon wanted to charge websites additional fees so that they could access the "fast-lane," and the FCC was preventing them from doing so under the rationale that it would restrict access to the Internet, especially for smaller businesses and individuals for whom the fees would be prohibitively expensive.
+For utilities like electricity and phone service, such a regulatory action on the part of the FCC is completely legal, but because the Internet was not at that time classified as a utility, the court ruled that the FCC did not have the authority to apply those rules to the Internet.
+The FCC considered appealing the ruling, but thought better of it, instead working around such legal battles by simply reclassifying the Internet (which occurred in February 2015**) in order to protect what Columbia Law professor, Tim Wu, would refer to as "net neutrality."***
+It is this 2015 reclassification that has recently been overturned by the latest FCC vote this past January,**** as America's large conglomerate Internet Service Providers (ISPs) like Verizon, Time Warner, and Comcast continue to seek ever greater control over America's access to media and information.*****
+Yet even before the consequent response to that initial appeals ruling, Mr. Gross alerted the public to ISPs' tactics of price discrimination for yielding more profit and disadvantaging competitors at the expense of consumers, putting the notion of "pay-to-play" on Americans' radar.
+
+
+
+Source:
+http://www.cnn.com/2014/01/15/tech/web/net-neutrality-explained/index.html
+
+* https://www.cadc.uscourts.gov/internet/opinions.nsf/3AF8B4D938CDEEA685257C6000532062/$file/11-1355-1474943.pdf
+** https://www.nytimes.com/2015/02/27/technology/net-neutrality-fcc-vote-internet-utility.html
+*** http://www.jthtl.org/content/articles/V2I1/JTHTLv2i1_Wu.PDF
+**** https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html
+***** https://www.wsj.com/articles/justice-department-expected-to-file-lawsuit-challenging-at-t-time-warner-deal-1511210955
+
